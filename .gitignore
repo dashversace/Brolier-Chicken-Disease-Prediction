@@ -1,0 +1,35 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Build
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Large datasets/models
+*.pt
+*.pth
+*.h5
+*.zip
+*.rar
+*.7z
+
+# Environment
+.env
+
+server/training_datasets/
+*.jpg
+*.png
+*.csv
+venv/
+node_modules/
+dist/
+build/
