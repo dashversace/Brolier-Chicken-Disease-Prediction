@@ -1,6 +1,6 @@
 fastapi>=0.100.0
 uvicorn[standard]>=0.22.0
-tensorflow>=2.12
+tensorflow
 numpy
 Pillow
 python-multipart
