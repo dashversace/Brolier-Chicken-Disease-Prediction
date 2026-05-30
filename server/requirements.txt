@@ -5,3 +5,4 @@ numpy
 Pillow
 python-multipart
 opencv-python-headless
+openpyxl
